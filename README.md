@@ -91,6 +91,6 @@ The license is available in the License.txt file in this GitHub repository.
 ## Contact
 Naman Bhaia at nbhaia@mathworks.com, Engineering Development and developer of the app
 
-Sara Galante at sdavis@mathworks.com, Application Engineering
+Sara Galante at sgalante@mathworks.com, Application Engineering
 
 Copyright 2024 The MathWorks, Inc.
