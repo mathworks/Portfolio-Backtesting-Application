@@ -65,7 +65,7 @@ Requires:
 2. [Backtest Investment Strategies with Trading Signals](https://www.mathworks.com/help/finance/backtest-investment-strategies-with-trading-signals.html): Open application, choose to import session and select ExampleFiles/Example2Session.mat
 
 ## Files
-1. **ExampleFiles/. :** This directory contains MATLAB functions representing different reblancing functions for different backtesting strategies.
+1. **ExampleFiles/. :** This directory contains MATLAB functions representing different rebalancing functions for different backtesting strategies.
 2. **WorkflowImages/. :** This directory is houses images that are used for the documentation/demos.
 3. **BacktestingApp.mlapp:** Primary application is implemented in this file. 
 4. **CreateStrategyApp.mlapp:** This application is spawned from the primary application as a new window. This window's purpose is to solely maintain individual backtesting strategies.
